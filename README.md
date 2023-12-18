@@ -1,2 +1,2 @@
 # hi :3
-parody on Chaostech, completely different from source material.
+A "Fork" (more of a remake) of Chaostech, i own no rights to the name Chaostech and everything related to Chaostech is not owned by me.
