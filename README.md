@@ -1,5 +1,5 @@
 
 
-![logo](https://github.com/eyecubed/Chaostech-Community-Edition/assets/138730051/bc64df9e-cf73-4104-905e-d160ec03f830)
+logo here
 
-A "Fork" (more of a remake) of Chaostech, i own no rights to the name Chaostech and everything related to Chaostech is not owned by me.
+Ever wanted to eat nickel, make literal organic biomatter from souls and haunt the undead just so you can make your machines faster? Or do you want to explore and kill powerful bosses with stupidly overpowered enchants? Or just do you want to play gregtech with some buffs? Well then, this is the modpack for you. Welcome home.
